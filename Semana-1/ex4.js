@@ -1,0 +1,5 @@
+const n = 2;
+for (let i = 1; i <= 10; i++) {
+    let multi = n * i;
+    console.log(`${n} x ${i} = ${multi}`);
+}
